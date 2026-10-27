@@ -1,0 +1,5 @@
+data.json
+password.json
+students.json
+__pycache__/
+.venv/
